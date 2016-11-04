@@ -1,0 +1,2 @@
+http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941
+http://www.sitepoint.com/nodejs-events-and-eventemitter/
